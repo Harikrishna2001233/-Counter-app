@@ -37,7 +37,7 @@ body {
     
 .button-element:hover {
     background: linear-gradient(135deg, rgb(255, 221, 0), rgb(255, 0, 0));
-    color: rgb(57, 55, );
+    color: rgb(57, 55, 55);
     transform: scale(1.08);
     
 }
