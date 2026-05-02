@@ -16,6 +16,8 @@ function resetBtnElement() {
 }
 
 function decreaseBtnElement() {
-    count --;
+    if(count > 0) {
+        count --;
+    }
     countEl.textContent = count;
 }
